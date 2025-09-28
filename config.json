@@ -1,0 +1,8 @@
+{
+  "sender_email": "your_email@gmail.com",
+  "password": "your_app_password",
+  "subject": "Hello from SllHex",
+  "body": "This is an automated message sent via Python automation bot.",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587
+}
